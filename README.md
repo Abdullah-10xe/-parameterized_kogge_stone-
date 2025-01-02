@@ -5,3 +5,5 @@ This adder will be used in my Vector MUltiplier  project based on Vedic multipli
 it's working based in prefix calculation
 for undersanding the kogge stone adder we have 
 ![image](https://github.com/user-attachments/assets/76692e00-3c39-4a9c-bfab-34a8dfaa5c6e)
+
+![Uploading image.png…]()
